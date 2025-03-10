@@ -1,0 +1,551 @@
+produk_id,nama_produk,kategori,harga,rating,jumlah_ulasan,negara_asal
+1,Produk_1,Smartwatch,746.0,4.2,273.0,Japan
+2,Produk_2,Headphone,241.0,3.5,239.0,Canada
+3,Produk_3,Tablet,810.0,3.8,209.0,Canada
+4,Produk_4,Headphone,303.0,3.2,59.0,South Korea
+5,Produk_5,Headphone,252.0,3.7,76.0,South Korea
+6,Produk_6,Laptop,335.0,4.0,309.0,France
+7,Produk_7,Tablet,890.0,4.5,390.0,France
+8,Produk_8,Tablet,491.0,3.0,67.0,USA
+9,Produk_9,Tablet,605.0,3.9,268.0,Canada
+10,Produk_10,Headphone,463.0,3.6,,Japan
+11,Produk_11,Smartwatch,481.0,4.7,335.0,Germany
+12,Produk_12,Tablet,398.0,4.4,139.0,Canada
+13,Produk_13,Camera,510.0,4.2,224.0,South Korea
+14,Produk_14,Headphone,598.0,3.6,181.0,China
+15,Produk_15,Laptop,835.0,,267.0,India
+16,Produk_16,Smartwatch,125.0,3.1,111.0,France
+17,Produk_17,Camera,822.0,3.2,218.0,UK
+18,Produk_18,Camera,605.0,3.8,300.0,China
+19,Produk_19,Laptop,426.0,3.2,363.0,Germany
+20,Produk_20,Smartwatch,390.0,4.9,480.0,South Korea
+21,Produk_21,Headphone,708.0,4.6,295.0,South Korea
+22,Produk_22,Smartphone,545.0,3.5,125.0,South Korea
+23,Produk_23,Smartwatch,,4.2,273.0,UK
+24,Produk_24,Laptop,572.0,5.0,159.0,France
+25,Produk_25,Camera,728.0,4.8,309.0,China
+26,Produk_26,Headphone,671.0,,451.0,Germany
+27,Produk_27,Smartwatch,374.0,4.8,45.0,France
+28,Produk_28,Smartphone,231.0,5.0,462.0,Germany
+29,Produk_29,Smartphone,434.0,4.5,342.0,France
+30,Produk_30,Tablet,1150.0,3.1,486.0,UK
+31,Produk_31,Tablet,,3.8,296.0,India
+32,Produk_32,Laptop,331.0,4.7,312.0,Germany
+33,Produk_33,Smartwatch,578.0,,320.0,France
+34,Produk_34,Smartwatch,475.0,4.7,217.0,South Korea
+35,Produk_35,Camera,459.0,3.2,115.0,Canada
+36,Produk_36,Camera,904.0,3.1,455.0,South Korea
+37,Produk_37,Camera,,3.8,167.0,USA
+38,Produk_38,Tablet,497.0,3.1,130.0,India
+39,Produk_39,Smartwatch,540.0,4.9,64.0,India
+40,Produk_40,Smartwatch,339.0,,409.0,South Korea
+41,Produk_41,Smartphone,211.0,4.6,21.0,China
+42,Produk_42,Tablet,,4.3,154.0,UK
+43,Produk_43,Headphone,862.0,3.4,409.0,Germany
+44,Produk_44,Tablet,580.0,4.0,405.0,India
+45,Produk_45,Headphone,518.0,4.2,145.0,South Korea
+46,Produk_46,Smartphone,516.0,4.1,477.0,South Korea
+47,Produk_47,Laptop,448.0,3.5,12.0,UK
+48,Produk_48,Smartwatch,736.0,4.0,153.0,UK
+49,Produk_49,Smartphone,398.0,4.0,39.0,Japan
+50,Produk_50,Smartwatch,228.0,5.0,246.0,Japan
+51,Produk_51,Camera,183.0,4.8,288.0,China
+52,Produk_52,Laptop,515.0,3.9,357.0,China
+53,Produk_53,Laptop,712.0,4.2,,USA
+54,Produk_54,Smartphone,547.0,4.5,113.0,China
+55,Produk_55,Laptop,436.0,3.1,127.0,France
+56,Produk_56,Headphone,591.0,4.8,14.0,UK
+57,Produk_57,Laptop,537.0,4.7,477.0,France
+58,Produk_58,Smartwatch,665.0,3.9,,Germany
+59,Produk_59,Smartwatch,765.0,3.8,257.0,South Korea
+60,Produk_60,Smartwatch,309.0,3.5,373.0,China
+61,Produk_61,Smartwatch,,4.0,330.0,South Korea
+62,Produk_62,Headphone,429.0,,130.0,India
+63,Produk_63,Tablet,296.0,4.7,295.0,USA
+64,Produk_64,Camera,666.0,3.1,158.0,India
+65,Produk_65,Smartphone,355.0,3.7,93.0,USA
+66,Produk_66,Smartwatch,124.0,4.9,463.0,Japan
+67,Produk_67,Laptop,385.0,4.5,,South Korea
+68,Produk_68,Smartwatch,201.0,3.6,475.0,USA
+69,Produk_69,Laptop,818.0,3.5,465.0,Canada
+70,Produk_70,Camera,594.0,3.0,240.0,France
+71,Produk_71,Camera,629.0,,297.0,USA
+72,Produk_72,Camera,607.0,3.1,170.0,USA
+73,Produk_73,Laptop,668.0,4.1,281.0,France
+74,Produk_74,Smartwatch,726.0,4.9,469.0,South Korea
+75,Produk_75,Camera,392.0,3.2,47.0,South Korea
+76,Produk_76,Headphone,216.0,4.8,235.0,France
+77,Produk_77,Laptop,330.0,5.0,151.0,India
+78,Produk_78,Laptop,490.0,,301.0,Canada
+79,Produk_79,Smartwatch,-12.0,4.8,490.0,Germany
+80,Produk_80,Laptop,728.0,,160.0,Canada
+81,Produk_81,Laptop,120.0,4.8,123.0,South Korea
+82,Produk_82,Camera,619.0,4.1,246.0,Japan
+83,Produk_83,Smartwatch,466.0,4.3,75.0,China
+84,Produk_84,Camera,557.0,4.1,370.0,USA
+85,Produk_85,Camera,405.0,4.7,350.0,France
+86,Produk_86,Smartwatch,543.0,4.5,267.0,France
+87,Produk_87,Smartphone,405.0,4.0,484.0,USA
+88,Produk_88,Camera,388.0,4.7,258.0,China
+89,Produk_89,Headphone,320.0,,466.0,Germany
+90,Produk_90,Headphone,805.0,3.3,458.0,China
+91,Produk_91,Laptop,573.0,3.3,340.0,China
+92,Produk_92,Headphone,541.0,3.7,332.0,China
+93,Produk_93,Laptop,324.0,3.5,189.0,Germany
+94,Produk_94,Smartphone,453.0,4.9,199.0,Germany
+95,Produk_95,Smartwatch,302.0,3.2,416.0,South Korea
+96,Produk_96,Smartwatch,401.0,4.4,163.0,USA
+97,Produk_97,Smartwatch,258.0,3.4,205.0,Germany
+98,Produk_98,Headphone,817.0,4.8,,Germany
+99,Produk_99,Smartphone,348.0,4.9,320.0,South Korea
+100,Produk_100,Headphone,324.0,3.9,271.0,France
+101,Produk_101,Headphone,234.0,4.8,428.0,South Korea
+102,Produk_102,Smartphone,345.0,3.0,415.0,India
+103,Produk_103,Smartphone,401.0,4.6,436.0,India
+104,Produk_104,Smartphone,490.0,3.5,152.0,Japan
+105,Produk_105,Smartphone,370.0,4.8,351.0,China
+106,Produk_106,Smartwatch,179.0,,,USA
+107,Produk_107,Tablet,197.0,4.1,110.0,UK
+108,Produk_108,Tablet,635.0,4.5,253.0,Canada
+109,Produk_109,Smartphone,475.0,3.5,499.0,South Korea
+110,Produk_110,Tablet,629.0,3.4,21.0,France
+111,Produk_111,Tablet,656.0,3.2,248.0,Canada
+112,Produk_112,Smartphone,530.0,3.7,58.0,France
+113,Produk_113,Tablet,253.0,4.1,51.0,Canada
+114,Produk_114,Headphone,537.0,3.2,175.0,South Korea
+115,Produk_115,Laptop,779.0,3.8,91.0,UK
+116,Produk_116,Laptop,410.0,3.0,438.0,Canada
+117,Produk_117,Smartphone,8341.0,4.6,300.0,South Korea
+118,Produk_118,Smartwatch,497.0,3.3,167.0,Germany
+119,Produk_119,Smartphone,774.0,3.6,225.0,UK
+120,Produk_120,Smartwatch,364.0,3.0,499.0,France
+121,Produk_121,Laptop,730.0,3.9,167.0,India
+122,Produk_122,Smartphone,424.0,4.7,471.0,China
+123,Produk_123,Camera,361.0,3.8,143.0,India
+124,Produk_124,Headphone,521.0,3.4,76.0,UK
+125,Produk_125,Tablet,568.0,4.5,345.0,France
+126,Produk_126,Smartwatch,882.0,4.6,16.0,Canada
+127,Produk_127,Camera,563.0,3.3,445.0,France
+128,Produk_128,Tablet,538.0,4.5,23.0,Canada
+129,Produk_129,Tablet,819.0,4.9,82.0,South Korea
+130,Produk_130,Smartphone,620.0,3.3,408.0,UK
+131,Produk_131,Tablet,,,414.0,South Korea
+132,Produk_132,Headphone,771.0,4.4,172.0,Japan
+133,Produk_133,Camera,352.0,3.9,75.0,Canada
+134,Produk_134,Tablet,370.0,3.1,356.0,Germany
+135,Produk_135,Smartphone,330.0,3.1,139.0,South Korea
+136,Produk_136,Headphone,312.0,4.7,428.0,Japan
+137,Produk_137,Laptop,566.0,5.0,475.0,USA
+138,Produk_138,Camera,448.0,4.4,215.0,India
+139,Produk_139,Tablet,-195.0,3.9,285.0,France
+140,Produk_140,Smartphone,446.0,4.3,475.0,Japan
+141,Produk_141,Laptop,396.0,4.2,265.0,UK
+142,Produk_142,Laptop,678.0,3.8,275.0,South Korea
+143,Produk_143,Smartwatch,,3.1,34.0,UK
+144,Produk_144,Headphone,,4.6,459.0,India
+145,Produk_145,Tablet,779.0,3.7,290.0,Germany
+146,Produk_146,Smartphone,422.0,,262.0,UK
+147,Produk_147,Smartwatch,729.0,3.5,319.0,Canada
+148,Produk_148,Headphone,605.0,3.0,298.0,Germany
+149,Produk_149,Smartwatch,546.0,3.3,173.0,Germany
+150,Produk_150,Camera,660.0,3.9,104.0,Japan
+151,Produk_151,Headphone,510.0,,,Germany
+152,Produk_152,Headphone,548.0,3.2,330.0,China
+153,Produk_153,Tablet,664.0,4.7,119.0,India
+154,Produk_154,Headphone,910.0,4.1,345.0,Germany
+155,Produk_155,Smartwatch,550.0,4.7,319.0,UK
+156,Produk_156,Headphone,409.0,3.6,247.0,USA
+157,Produk_157,Tablet,94.0,4.7,390.0,China
+158,Produk_158,Tablet,,4.5,445.0,China
+159,Produk_159,Camera,447.0,3.5,396.0,Canada
+160,Produk_160,Smartwatch,606.0,3.3,492.0,Germany
+161,Produk_161,Laptop,881.0,,434.0,Canada
+162,Produk_162,Laptop,545.0,4.9,399.0,Canada
+163,Produk_163,Headphone,461.0,3.1,34.0,USA
+164,Produk_164,Camera,783.0,4.5,150.0,Japan
+165,Produk_165,Smartphone,592.0,4.8,126.0,Germany
+166,Produk_166,Headphone,617.0,,491.0,South Korea
+167,Produk_167,Camera,195.0,,401.0,Canada
+168,Produk_168,Smartwatch,741.0,4.5,414.0,India
+169,Produk_169,Smartwatch,575.0,3.9,491.0,France
+170,Produk_170,Smartwatch,225.0,3.6,461.0,India
+171,Produk_171,Smartwatch,597.0,3.6,34.0,USA
+172,Produk_172,Smartwatch,87.0,4.4,88.0,USA
+173,Produk_173,Camera,968.0,4.5,77.0,UK
+174,Produk_174,Camera,279.0,3.4,182.0,Japan
+175,Produk_175,Tablet,822.0,4.7,453.0,Canada
+176,Produk_176,Laptop,337.0,4.4,21.0,India
+177,Produk_177,Smartwatch,612.0,,297.0,France
+178,Produk_178,Smartphone,317.0,3.9,137.0,USA
+179,Produk_179,Camera,699.0,4.1,105.0,USA
+180,Produk_180,Smartphone,452.0,3.3,101.0,Japan
+181,Produk_181,Smartphone,593.0,3.4,150.0,France
+182,Produk_182,Smartphone,503.0,3.2,40.0,France
+183,Produk_183,Tablet,226.0,3.3,343.0,Japan
+184,Produk_184,Camera,600.0,3.9,29.0,USA
+185,Produk_185,Smartphone,399.0,4.1,155.0,Germany
+186,Produk_186,Smartwatch,709.0,,486.0,Germany
+187,Produk_187,Headphone,452.0,4.6,325.0,Japan
+188,Produk_188,Smartphone,484.0,3.6,456.0,France
+189,Produk_189,Tablet,836.0,4.8,399.0,Canada
+190,Produk_190,Camera,976.0,4.9,169.0,Japan
+191,Produk_191,Tablet,657.0,3.4,358.0,Japan
+192,Produk_192,Smartphone,442.0,3.9,52.0,China
+193,Produk_193,Camera,425.0,3.0,263.0,India
+194,Produk_194,Headphone,336.0,4.2,139.0,France
+195,Produk_195,Smartphone,374.0,4.2,69.0,UK
+196,Produk_196,Tablet,445.0,3.5,160.0,UK
+197,Produk_197,Laptop,892.0,4.1,,France
+198,Produk_198,Smartwatch,460.0,3.5,296.0,China
+199,Produk_199,Tablet,254.0,3.3,14.0,China
+200,Produk_200,Camera,508.0,4.3,476.0,USA
+201,Produk_201,Smartphone,,3.7,427.0,India
+202,Produk_202,Smartwatch,507.0,4.2,275.0,Germany
+203,Produk_203,Smartphone,659.0,3.9,354.0,South Korea
+204,Produk_204,Camera,513.0,5.0,139.0,South Korea
+205,Produk_205,Smartphone,653.0,3.3,391.0,South Korea
+206,Produk_206,Laptop,343.0,3.9,276.0,France
+207,Produk_207,Smartwatch,856.0,4.4,187.0,UK
+208,Produk_208,Smartwatch,,3.8,,UK
+209,Produk_209,Camera,580.0,4.9,424.0,Germany
+210,Produk_210,Laptop,343.0,4.4,65.0,France
+211,Produk_211,Tablet,594.0,,472.0,South Korea
+212,Produk_212,Smartphone,630.0,4.5,466.0,Canada
+213,Produk_213,Headphone,266.0,4.9,480.0,UK
+214,Produk_214,Smartphone,168.0,4.8,92.0,USA
+215,Produk_215,Smartphone,558.0,4.4,402.0,Japan
+216,Produk_216,Tablet,402.0,4.5,108.0,Canada
+217,Produk_217,Smartphone,551.0,3.3,158.0,UK
+218,Produk_218,Laptop,241.0,,338.0,China
+219,Produk_219,Laptop,187.0,4.1,165.0,UK
+220,Produk_220,Smartwatch,541.0,3.0,199.0,USA
+221,Produk_221,Camera,430.0,4.0,380.0,South Korea
+222,Produk_222,Headphone,77.0,3.4,272.0,China
+223,Produk_223,Smartphone,768.0,3.7,,France
+224,Produk_224,Smartphone,238.0,4.6,409.0,India
+225,Produk_225,Tablet,,4.9,261.0,South Korea
+226,Produk_226,Camera,375.0,3.1,106.0,India
+227,Produk_227,Laptop,580.0,4.1,269.0,Canada
+228,Produk_228,Headphone,829.0,4.8,269.0,Japan
+229,Produk_229,Smartwatch,795.0,3.2,112.0,China
+230,Produk_230,Laptop,897.0,4.6,49.0,Germany
+231,Produk_231,Camera,195.0,3.7,282.0,China
+232,Produk_232,Smartwatch,272.0,3.6,110.0,UK
+233,Produk_233,Tablet,,5.0,368.0,UK
+234,Produk_234,Tablet,7123.0,3.4,389.0,UK
+235,Produk_235,Smartphone,497.0,4.4,317.0,Canada
+236,Produk_236,Camera,172.0,4.6,230.0,South Korea
+237,Produk_237,Headphone,599.0,3.1,317.0,Germany
+238,Produk_238,Smartwatch,461.0,4.3,429.0,Germany
+239,Produk_239,Laptop,458.0,4.9,133.0,UK
+240,Produk_240,Camera,44.0,3.2,431.0,India
+241,Produk_241,Camera,659.0,4.8,240.0,Canada
+242,Produk_242,Tablet,529.0,4.2,187.0,UK
+243,Produk_243,Smartphone,859.0,4.2,72.0,Japan
+244,Produk_244,Smartphone,485.0,,494.0,South Korea
+245,Produk_245,Smartwatch,613.0,3.6,125.0,France
+246,Produk_246,Tablet,666.0,4.9,200.0,Japan
+247,Produk_247,Camera,150.0,4.9,71.0,India
+248,Produk_248,Headphone,1023.0,4.3,265.0,China
+249,Produk_249,Tablet,413.0,4.6,492.0,China
+250,Produk_250,Smartwatch,598.0,4.2,16.0,Japan
+251,Produk_251,Smartwatch,628.0,4.0,164.0,UK
+252,Produk_252,Tablet,337.0,4.3,101.0,France
+253,Produk_253,Smartwatch,869.0,,479.0,USA
+254,Produk_254,Tablet,553.0,4.2,23.0,USA
+255,Produk_255,Laptop,457.0,,464.0,India
+256,Produk_256,Tablet,527.0,,238.0,UK
+257,Produk_257,Tablet,652.0,3.1,95.0,Germany
+258,Produk_258,Smartwatch,502.0,3.3,142.0,Germany
+259,Produk_259,Smartwatch,676.0,3.9,192.0,South Korea
+260,Produk_260,Smartphone,163.0,4.4,395.0,France
+261,Produk_261,Smartphone,,4.2,71.0,France
+262,Produk_262,Laptop,,4.3,228.0,China
+263,Produk_263,Smartphone,899.0,4.0,414.0,Canada
+264,Produk_264,Tablet,896.0,4.2,255.0,India
+265,Produk_265,Smartwatch,625.0,3.7,239.0,USA
+266,Produk_266,Smartphone,297.0,3.9,88.0,India
+267,Produk_267,Smartphone,977.0,4.5,158.0,Germany
+268,Produk_268,Laptop,379.0,4.7,147.0,Germany
+269,Produk_269,Camera,457.0,,480.0,Japan
+270,Produk_270,Laptop,,3.1,323.0,South Korea
+271,Produk_271,Tablet,590.0,,385.0,France
+272,Produk_272,Smartwatch,628.0,3.0,432.0,India
+273,Produk_273,Laptop,636.0,4.3,398.0,Germany
+274,Produk_274,Smartphone,471.0,3.7,74.0,Canada
+275,Produk_275,Smartwatch,633.0,4.1,22.0,China
+276,Produk_276,Smartwatch,462.0,,222.0,USA
+277,Produk_277,Smartphone,615.0,3.2,483.0,South Korea
+278,Produk_278,Laptop,599.0,3.8,,Canada
+279,Produk_279,Smartphone,652.0,3.4,222.0,South Korea
+280,Produk_280,Camera,627.0,3.8,190.0,Japan
+281,Produk_281,Smartwatch,411.0,3.4,347.0,Germany
+282,Produk_282,Headphone,591.0,4.7,494.0,China
+283,Produk_283,Headphone,630.0,3.3,182.0,Canada
+284,Produk_284,Tablet,241.0,4.9,169.0,South Korea
+285,Produk_285,Smartphone,445.0,3.8,173.0,France
+286,Produk_286,Smartphone,621.0,4.7,474.0,Japan
+287,Produk_287,Tablet,841.0,4.3,492.0,France
+288,Produk_288,Tablet,664.0,,197.0,China
+289,Produk_289,Tablet,854.0,4.5,404.0,Canada
+290,Produk_290,Smartwatch,420.0,4.0,200.0,Japan
+291,Produk_291,Camera,550.0,4.1,414.0,Canada
+292,Produk_292,Smartphone,661.0,4.0,317.0,Germany
+293,Produk_293,Smartwatch,,4.2,265.0,UK
+294,Produk_294,Tablet,802.0,3.1,192.0,Japan
+295,Produk_295,Smartphone,127.0,,126.0,France
+296,Produk_296,Smartwatch,699.0,4.2,291.0,China
+297,Produk_297,Camera,637.0,4.2,205.0,Germany
+298,Produk_298,Smartwatch,32.0,4.6,43.0,UK
+299,Produk_299,Camera,42.0,4.3,61.0,USA
+300,Produk_300,Tablet,786.0,5.0,121.0,Germany
+301,Produk_301,Camera,742.0,3.6,261.0,China
+302,Produk_302,Smartphone,323.0,3.7,91.0,South Korea
+303,Produk_303,Tablet,323.0,3.8,241.0,Japan
+304,Produk_304,Smartphone,602.0,3.9,236.0,Canada
+305,Produk_305,Headphone,497.0,4.7,242.0,China
+306,Produk_306,Laptop,,3.5,,Japan
+307,Produk_307,Camera,595.0,4.6,445.0,Canada
+308,Produk_308,Laptop,,3.8,422.0,India
+309,Produk_309,Laptop,694.0,4.2,431.0,France
+310,Produk_310,Camera,644.0,4.3,51.0,USA
+311,Produk_311,Tablet,429.0,3.7,30.0,Germany
+312,Produk_312,Headphone,414.0,4.0,51.0,China
+313,Produk_313,Smartphone,489.0,3.8,406.0,USA
+314,Produk_314,Smartwatch,868.0,3.1,122.0,South Korea
+315,Produk_315,Smartphone,418.0,3.9,114.0,Japan
+316,Produk_316,Smartwatch,552.0,3.2,201.0,Japan
+317,Produk_317,Smartphone,51.0,3.8,26.0,China
+318,Produk_318,Camera,635.0,4.2,129.0,UK
+319,Produk_319,Headphone,951.0,4.2,402.0,UK
+320,Produk_320,Smartwatch,313.0,4.3,434.0,India
+321,Produk_321,Tablet,1134.0,3.2,138.0,France
+322,Produk_322,Smartphone,536.0,4.3,,Canada
+323,Produk_323,Smartphone,-14.0,3.6,69.0,South Korea
+324,Produk_324,Smartwatch,422.0,3.8,57.0,USA
+325,Produk_325,Tablet,766.0,4.7,38.0,UK
+326,Produk_326,Tablet,,3.0,106.0,India
+327,Produk_327,Camera,643.0,4.2,19.0,India
+328,Produk_328,Camera,813.0,4.2,,China
+329,Produk_329,Camera,264.0,3.8,323.0,South Korea
+330,Produk_330,Camera,363.0,3.5,453.0,Canada
+331,Produk_331,Camera,164.0,3.5,241.0,France
+332,Produk_332,Camera,378.0,4.8,286.0,Germany
+333,Produk_333,Headphone,652.0,3.9,293.0,China
+334,Produk_334,Tablet,542.0,3.7,212.0,Canada
+335,Produk_335,Camera,673.0,,256.0,Germany
+336,Produk_336,Tablet,312.0,4.3,299.0,Germany
+337,Produk_337,Tablet,324.0,3.3,273.0,South Korea
+338,Produk_338,Laptop,540.0,3.9,452.0,South Korea
+339,Produk_339,Headphone,379.0,4.2,223.0,USA
+340,Produk_340,Camera,760.0,4.9,209.0,India
+341,Produk_341,Smartphone,374.0,3.5,442.0,Canada
+342,Produk_342,Smartwatch,400.0,3.7,88.0,China
+343,Produk_343,Smartphone,583.0,3.8,410.0,Japan
+344,Produk_344,Headphone,422.0,4.2,453.0,China
+345,Produk_345,Smartwatch,253.0,3.7,352.0,USA
+346,Produk_346,Headphone,280.0,4.1,353.0,France
+347,Produk_347,Tablet,607.0,,182.0,India
+348,Produk_348,Smartwatch,228.0,4.4,476.0,Japan
+349,Produk_349,Tablet,779.0,,,UK
+350,Produk_350,Smartphone,361.0,4.7,425.0,France
+351,Produk_351,Smartphone,623.0,4.1,437.0,South Korea
+352,Produk_352,Smartwatch,373.0,4.1,458.0,Germany
+353,Produk_353,Smartwatch,316.0,3.1,96.0,UK
+354,Produk_354,Camera,549.0,5.0,110.0,China
+355,Produk_355,Headphone,710.0,,17.0,China
+356,Produk_356,Camera,450.0,3.5,342.0,South Korea
+357,Produk_357,Headphone,486.0,3.1,209.0,USA
+358,Produk_358,Camera,661.0,4.3,96.0,Canada
+359,Produk_359,Tablet,668.0,3.4,52.0,UK
+360,Produk_360,Smartwatch,492.0,3.4,394.0,UK
+361,Produk_361,Smartphone,411.0,3.2,118.0,France
+362,Produk_362,Headphone,516.0,3.2,444.0,India
+363,Produk_363,Headphone,461.0,4.2,417.0,France
+364,Produk_364,Smartphone,5840.0,4.4,492.0,Canada
+365,Produk_365,Camera,261.0,3.8,161.0,China
+366,Produk_366,Headphone,555.0,,26.0,China
+367,Produk_367,Tablet,356.0,4.4,142.0,China
+368,Produk_368,Smartwatch,681.0,3.0,157.0,China
+369,Produk_369,Smartphone,365.0,3.6,286.0,Canada
+370,Produk_370,Smartwatch,368.0,4.9,241.0,South Korea
+371,Produk_371,Headphone,589.0,4.2,323.0,India
+372,Produk_372,Headphone,502.0,3.5,424.0,Canada
+373,Produk_373,Smartphone,955.0,4.0,375.0,India
+374,Produk_374,Tablet,174.0,3.7,237.0,Canada
+375,Produk_375,Laptop,521.0,4.1,148.0,China
+376,Produk_376,Smartphone,725.0,3.3,445.0,South Korea
+377,Produk_377,Laptop,384.0,,408.0,UK
+378,Produk_378,Camera,317.0,3.3,220.0,France
+379,Produk_379,Laptop,325.0,4.9,400.0,Germany
+380,Produk_380,Tablet,177.0,4.5,37.0,South Korea
+381,Produk_381,Camera,769.0,3.3,60.0,UK
+382,Produk_382,Laptop,,3.4,451.0,USA
+383,Produk_383,Camera,410.0,4.5,270.0,Canada
+384,Produk_384,Laptop,,3.3,270.0,USA
+385,Produk_385,Tablet,213.0,3.5,359.0,UK
+386,Produk_386,Laptop,793.0,,361.0,South Korea
+387,Produk_387,Laptop,560.0,3.5,17.0,Canada
+388,Produk_388,Laptop,733.0,4.3,329.0,Germany
+389,Produk_389,Smartphone,707.0,5.0,147.0,China
+390,Produk_390,Smartphone,299.0,3.7,47.0,Canada
+391,Produk_391,Smartphone,985.0,3.0,120.0,Canada
+392,Produk_392,Tablet,889.0,3.5,489.0,South Korea
+393,Produk_393,Camera,387.0,4.7,377.0,South Korea
+394,Produk_394,Headphone,-213.0,4.7,229.0,UK
+395,Produk_395,Laptop,428.0,4.5,346.0,Japan
+396,Produk_396,Laptop,547.0,3.2,232.0,Canada
+397,Produk_397,Tablet,386.0,4.6,145.0,France
+398,Produk_398,Laptop,455.0,,265.0,Canada
+399,Produk_399,Smartphone,334.0,4.2,369.0,UK
+400,Produk_400,Headphone,684.0,4.9,418.0,India
+401,Produk_401,Smartwatch,512.0,4.7,338.0,USA
+402,Produk_402,Laptop,690.0,4.3,459.0,China
+403,Produk_403,Smartphone,744.0,4.2,472.0,Japan
+404,Produk_404,Smartwatch,65.0,3.7,443.0,Germany
+405,Produk_405,Headphone,345.0,3.3,460.0,Germany
+406,Produk_406,Smartwatch,375.0,,58.0,Germany
+407,Produk_407,Smartphone,1014.0,3.6,301.0,South Korea
+408,Produk_408,Camera,529.0,4.7,391.0,Germany
+409,Produk_409,Camera,662.0,,,China
+410,Produk_410,Smartwatch,123.0,4.5,87.0,USA
+411,Produk_411,Tablet,528.0,3.2,114.0,Germany
+412,Produk_412,Smartwatch,695.0,3.6,178.0,Canada
+413,Produk_413,Laptop,672.0,3.2,226.0,Canada
+414,Produk_414,Laptop,5598.0,4.3,387.0,South Korea
+415,Produk_415,Camera,502.0,4.5,128.0,China
+416,Produk_416,Tablet,,4.9,199.0,USA
+417,Produk_417,Smartphone,161.0,3.9,264.0,Japan
+418,Produk_418,Laptop,319.0,4.8,379.0,UK
+419,Produk_419,Camera,546.0,4.8,275.0,USA
+420,Produk_420,Headphone,356.0,3.6,158.0,UK
+421,Produk_421,Camera,637.0,4.7,173.0,India
+422,Produk_422,Laptop,593.0,3.8,149.0,UK
+423,Produk_423,Laptop,773.0,3.6,356.0,France
+424,Produk_424,Camera,691.0,4.3,497.0,Canada
+425,Produk_425,Smartphone,545.0,3.7,267.0,China
+426,Produk_426,Smartwatch,649.0,4.3,383.0,South Korea
+427,Produk_427,Laptop,701.0,4.2,278.0,France
+428,Produk_428,Camera,398.0,4.1,190.0,UK
+429,Produk_429,Camera,434.0,3.8,169.0,Germany
+430,Produk_430,Tablet,480.0,4.1,360.0,China
+431,Produk_431,Smartwatch,404.0,4.2,409.0,France
+432,Produk_432,Headphone,703.0,4.1,297.0,South Korea
+433,Produk_433,Smartphone,374.0,3.9,297.0,Canada
+434,Produk_434,Headphone,750.0,3.0,389.0,China
+435,Produk_435,Smartwatch,426.0,4.2,235.0,South Korea
+436,Produk_436,Smartwatch,594.0,,20.0,India
+437,Produk_437,Smartwatch,533.0,4.3,,India
+438,Produk_438,Headphone,304.0,4.5,280.0,South Korea
+439,Produk_439,Smartwatch,496.0,4.0,282.0,France
+440,Produk_440,Camera,566.0,4.1,433.0,China
+441,Produk_441,Headphone,487.0,4.9,411.0,France
+442,Produk_442,Smartwatch,231.0,,192.0,Japan
+443,Produk_443,Camera,840.0,4.8,466.0,UK
+444,Produk_444,Tablet,517.0,4.6,162.0,Japan
+445,Produk_445,Smartwatch,341.0,3.2,497.0,India
+446,Produk_446,Headphone,824.0,3.3,324.0,Canada
+447,Produk_447,Laptop,623.0,4.1,343.0,USA
+448,Produk_448,Smartwatch,,3.5,133.0,UK
+449,Produk_449,Laptop,291.0,4.0,482.0,India
+450,Produk_450,Camera,455.0,,123.0,France
+451,Produk_451,Tablet,559.0,4.1,287.0,France
+452,Produk_452,Smartphone,624.0,4.5,423.0,France
+453,Produk_453,Tablet,690.0,4.4,477.0,Canada
+454,Produk_454,Smartwatch,607.0,4.0,222.0,Japan
+455,Produk_455,Laptop,769.0,4.6,181.0,USA
+456,Produk_456,Laptop,525.0,3.9,297.0,France
+457,Produk_457,Headphone,348.0,4.8,444.0,UK
+458,Produk_458,Laptop,499.0,3.1,183.0,China
+459,Produk_459,Headphone,486.0,4.9,122.0,USA
+460,Produk_460,Camera,-15.0,4.3,385.0,Canada
+461,Produk_461,Smartphone,387.0,3.8,414.0,USA
+462,Produk_462,Smartwatch,562.0,3.4,492.0,China
+463,Produk_463,Headphone,415.0,4.0,131.0,UK
+464,Produk_464,Smartphone,370.0,3.4,41.0,China
+465,Produk_465,Laptop,,3.3,231.0,South Korea
+466,Produk_466,Laptop,316.0,4.2,128.0,UK
+467,Produk_467,Smartphone,642.0,4.0,48.0,USA
+468,Produk_468,Laptop,233.0,,277.0,France
+469,Produk_469,Camera,,4.9,242.0,USA
+470,Produk_470,Camera,456.0,4.1,440.0,USA
+471,Produk_471,Smartphone,435.0,,27.0,UK
+472,Produk_472,Headphone,728.0,3.2,158.0,South Korea
+473,Produk_473,Headphone,416.0,4.4,406.0,USA
+474,Produk_474,Smartphone,790.0,3.8,,India
+475,Produk_475,Headphone,574.0,5.0,135.0,Germany
+476,Produk_476,Headphone,476.0,4.6,401.0,Germany
+477,Produk_477,Camera,454.0,4.0,311.0,USA
+478,Produk_478,Headphone,741.0,3.2,369.0,France
+479,Produk_479,Tablet,,4.7,247.0,Canada
+480,Produk_480,Smartwatch,586.0,4.6,144.0,Canada
+481,Produk_481,Laptop,608.0,3.4,,UK
+482,Produk_482,Tablet,526.0,3.6,245.0,Germany
+483,Produk_483,Headphone,603.0,4.6,233.0,USA
+484,Produk_484,Camera,5224.0,,212.0,Canada
+485,Produk_485,Smartphone,490.0,4.8,265.0,USA
+486,Produk_486,Headphone,276.0,3.8,95.0,UK
+487,Produk_487,Camera,559.0,3.2,159.0,Germany
+488,Produk_488,Smartwatch,156.0,4.6,244.0,China
+489,Produk_489,Headphone,556.0,,354.0,India
+490,Produk_490,Smartphone,443.0,4.1,31.0,India
+491,Produk_491,Camera,574.0,3.2,357.0,Canada
+492,Produk_492,Camera,290.0,3.0,294.0,India
+493,Produk_493,Camera,76.0,4.3,,China
+494,Produk_494,Smartwatch,,4.0,475.0,USA
+495,Produk_495,Headphone,290.0,4.2,267.0,UK
+496,Produk_496,Smartwatch,143.0,4.6,38.0,China
+497,Produk_497,Laptop,653.0,4.3,222.0,UK
+498,Produk_498,Laptop,820.0,3.3,472.0,UK
+499,Produk_499,Headphone,340.0,3.7,445.0,Germany
+500,Produk_500,Smartwatch,484.0,4.8,292.0,USA
+501,Produk_501,Smartphone,438.0,4.5,59.0,India
+502,Produk_502,Camera,368.0,4.1,104.0,Germany
+503,Produk_503,Camera,632.0,3.5,472.0,UK
+504,Produk_504,Headphone,702.0,3.6,416.0,Canada
+505,Produk_505,Laptop,326.0,4.5,97.0,India
+506,Produk_506,Laptop,508.0,4.7,53.0,India
+507,Produk_507,Camera,756.0,4.3,470.0,USA
+508,Produk_508,Headphone,637.0,4.6,287.0,South Korea
+509,Produk_509,Smartwatch,667.0,,180.0,Japan
+510,Produk_510,Laptop,773.0,3.3,430.0,Japan
+511,Produk_511,Smartwatch,,3.8,198.0,Japan
+512,Produk_512,Laptop,705.0,3.3,362.0,South Korea
+513,Produk_513,Laptop,528.0,3.5,193.0,USA
+514,Produk_514,Tablet,423.0,4.7,12.0,South Korea
+515,Produk_515,Laptop,520.0,3.9,200.0,Japan
+516,Produk_516,Smartphone,393.0,4.1,127.0,Germany
+517,Produk_517,Headphone,109.0,3.4,28.0,China
+518,Produk_518,Headphone,444.0,,32.0,UK
+519,Produk_519,Smartwatch,571.0,3.5,422.0,South Korea
+520,Produk_520,Laptop,382.0,3.4,39.0,USA
+521,Produk_521,Smartphone,461.0,4.3,304.0,USA
+522,Produk_522,Smartwatch,469.0,3.5,117.0,China
+523,Produk_523,Tablet,771.0,4.3,376.0,Canada
+524,Produk_524,Smartwatch,428.0,3.1,290.0,India
+525,Produk_525,Smartwatch,771.0,3.3,137.0,Japan
+526,Produk_526,Laptop,-42.0,3.5,238.0,Canada
+527,Produk_527,Tablet,769.0,4.2,120.0,Japan
+528,Produk_528,Smartwatch,759.0,4.4,145.0,China
+529,Produk_529,Smartphone,680.0,3.9,371.0,Japan
+530,Produk_530,Smartphone,97.0,3.9,195.0,China
+531,Produk_531,Headphone,703.0,4.4,153.0,France
+532,Produk_532,Tablet,489.0,3.0,81.0,Canada
+533,Produk_533,Tablet,-5.0,,138.0,Canada
+534,Produk_534,Headphone,759.0,4.6,373.0,India
+535,Produk_535,Smartwatch,788.0,4.2,270.0,China
+536,Produk_536,Tablet,119.0,3.7,12.0,South Korea
+537,Produk_537,Smartphone,535.0,4.8,458.0,France
+538,Produk_538,Smartphone,777.0,,397.0,Germany
+539,Produk_539,Laptop,746.0,3.5,113.0,Japan
+540,Produk_540,Tablet,667.0,4.3,492.0,France
+541,Produk_541,Smartwatch,-29.0,4.2,233.0,China
+542,Produk_542,Headphone,645.0,3.8,329.0,UK
+543,Produk_543,Headphone,456.0,3.7,371.0,Japan
+544,Produk_544,Smartwatch,,3.7,363.0,USA
+545,Produk_545,Camera,551.0,4.2,482.0,Canada
+546,Produk_546,Laptop,496.0,3.9,19.0,China
+547,Produk_547,Headphone,628.0,4.7,414.0,USA
+548,Produk_548,Tablet,465.0,4.3,393.0,India
+549,Produk_549,Laptop,495.0,3.1,311.0,Germany
+550,Produk_550,Tablet,388.0,4.3,240.0,Germany
